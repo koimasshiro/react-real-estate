@@ -17,10 +17,26 @@ function Chat() {
         </div>
         <div className="message">
           <img
-            src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            src="./WhatsApp Image 2025-04-08 at 15.56.03 (1).jpeg"
             alt=""
           />
-          <span>John Doe</span>
+          <span>Marilyn anderson</span>
+          <p>Lorem ipsum dolor sit amet...</p>
+        </div>
+        <div className="message">
+          <img
+            src="./smiley-man-using-talking-smartphone.jpg"
+            alt=""
+          />
+          <span>darwin scranton</span>
+          <p>Lorem ipsum dolor sit amet...</p>
+        </div>
+        <div className="message">
+          <img
+            src="./WhatsApp Image 2025-04-08 at 15.56.03.jpeg"
+            alt=""
+          />
+          <span>Dunder Mifflin</span>
           <p>Lorem ipsum dolor sit amet...</p>
         </div>
         <div className="message">
@@ -28,7 +44,7 @@ function Chat() {
             src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             alt=""
           />
-          <span>John Doe</span>
+          <span>Vance Refrigeration</span>
           <p>Lorem ipsum dolor sit amet...</p>
         </div>
         <div className="message">
@@ -36,23 +52,7 @@ function Chat() {
             src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
             alt=""
           />
-          <span>John Doe</span>
-          <p>Lorem ipsum dolor sit amet...</p>
-        </div>
-        <div className="message">
-          <img
-            src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-            alt=""
-          />
-          <span>John Doe</span>
-          <p>Lorem ipsum dolor sit amet...</p>
-        </div>
-        <div className="message">
-          <img
-            src="https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-            alt=""
-          />
-          <span>John Doe</span>
+          <span>Jane Doe</span>
           <p>Lorem ipsum dolor sit amet...</p>
         </div>
       </div>
